@@ -1,0 +1,25 @@
+body{
+    background-color: lightgrey;
+}
+.base{
+    color:darkslategrey;
+}
+.rivao{
+    color:darkslategray;
+}
+.parah{
+    font-family: raleway, arial;
+}
+.MacbethBreasts{
+    font-family: arial;
+}
+
+h1{
+    font-family: PT Sans Narrow;
+}
+el{
+    color:rgb(5, 134, 69);
+}
+el2{
+    color:rgb(189, 7, 7);
+}
